@@ -27,7 +27,7 @@
  
  ##
 
-<div align="center">
+<div align="absolute">
   <a href="http://beacons.ai/aylinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aylastankovsky&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylastankovsky&layout=compact&langs_count=7&theme=moltack"/>
