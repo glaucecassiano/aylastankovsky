@@ -1,5 +1,5 @@
 
-<p align="center"><a href="http://beacons.ai/aylinha"><img width="70%" src="https://media3.giphy.com/media/eMOms8pI5g5xD6Rn0s/giphy.gif?cid=790b761109d7301c17e1792e6a548b22e1933b19a6e9ad0d&rid=giphy.gif&ct=g" /></a></p>
+<p align="center"><a href="http://beacons.ai/aylinha"><img width="70%" src="https://media.giphy.com/media/R9BKmxTYFQISmwZucZ/giphy.gif" /></a></p>
 
 ### Olá estranho ♥🧙‍♀️ 
 
