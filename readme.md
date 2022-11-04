@@ -1,7 +1,7 @@
 
 <p align="center"><a href="http://beacons.ai/aylinha"><img width="70%" src="https://media.giphy.com/media/R9BKmxTYFQISmwZucZ/giphy.gif" /></a></p>
 
-### Olá estranho ♥🧙‍♀️ 
+### Olá desconhecido ♥🧙‍♀️ 
 
 
 ##
