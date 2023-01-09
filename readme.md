@@ -59,4 +59,4 @@
   </div>
 
 
-  ![Snake animation](https://github.com/glaucecassiano/glaucecassiano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/glaucecassiano/glaucecassiano/blob/output/github-contribution-grid-snake.svg)
