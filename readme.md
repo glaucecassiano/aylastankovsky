@@ -58,5 +58,4 @@
 </p>
   </div>
 
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
+![Snake animation](https://github.com/rafaballerini/glaucecassiano/blob/output/github-contribution-grid-snake.svg)
