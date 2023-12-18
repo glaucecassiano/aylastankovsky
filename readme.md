@@ -46,10 +46,8 @@
 
 <div align="center">
 
-  <a href="https://instagram.com/aylinha.css" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/glaudocss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aylastankovsky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://line.me/ti/p/S2cNIdC-KK" target="_blank"><img height="28" src="https://aleen42.github.io/badges/src/line.svg" target="_blank"></a>
-
 
 </div>
 
